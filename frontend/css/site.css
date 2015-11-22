@@ -1,0 +1,36 @@
+.top-bar {
+    padding:0px;
+}
+.top-bar, .top-bar ul {
+    background-color: #FFF;
+}
+.logo {
+    height: 100%;
+
+background: #D38312; 
+background: -webkit-linear-gradient(to left, #D38312 , #ffb347); 
+background: linear-gradient(to left, #D38312 , #ffb347); 
+    -moz-transition: all 400ms ease;
+    -o-transition: all 400ms ease;
+    -webkit-transition: all 400ms ease;
+    transition: all 400ms ease;
+}
+.logo:hover {
+background: #ffb347; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #ffb347 , #ffcc33); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #ffb347 , #ffcc33);
+}
+.title-mx{
+    padding-left: .5rem;
+    color: rgba(190,100,45,1);
+    font-size: 1.2em;
+    font-weight: 900;
+    -webkit-transition: all 400ms ease;
+    transition: all 400ms ease;
+}
+.title-mx:hover{
+    color: rgba(129,43,45,1);
+}
+.content-gallery{
+    padding-top: -2em;
+}

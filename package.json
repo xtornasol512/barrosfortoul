@@ -1,0 +1,25 @@
+{
+  "name": "barrosfortoul",
+  "version": "1.0.0",
+  "description": "Pagina Oficial de Barros Fortoul",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtornasol512/barrosfortoul.git"
+  },
+  "keywords": [
+    "html5",
+    "django",
+    "css",
+    "js"
+  ],
+  "author": "@xtornasol512, @phyroserver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xtornasol512/barrosfortoul/issues"
+  },
+  "homepage": "https://github.com/xtornasol512/barrosfortoul#readme"
+}
